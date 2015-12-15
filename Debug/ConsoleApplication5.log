@@ -1,0 +1,27 @@
+﻿Сборка начата 15.12.2015 21:09:09.
+     1>Проект "C:\тп сдавать\Lab7_2\ConsoleApplication5\ConsoleApplication5.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\VS\VC\bin\CL.exe /c /I"C:\SFML-Visual_Studio2015RCx32\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D "SFML-DYNAMIC" /D Win32 /D _DEBUG /D _CONSOLE /D _LIB_UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Animation.cpp
+         Animation.cpp
+     1>c:\тп сдавать\lab7_2\consoleapplication5\var.h(14): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\тп сдавать\lab7_2\consoleapplication5\var.h(16): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.h(21): warning C4244: инициализация: преобразование "const int" в "float", возможна потеря данных
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.h(22): warning C4244: инициализация: преобразование "const int" в "float", возможна потеря данных
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(21): warning C4244: -=: преобразование "const float" в "int", возможна потеря данных
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(57): warning C4244: +=: преобразование "const float" в "int", возможна потеря данных
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\тп сдавать\lab7_2\consoleapplication5\animation.cpp(93): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\тп сдавать\Lab7_2\Debug\ConsoleApplication5.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-Visual_Studio2015RCx32\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\тп сдавать\Lab7_2\Debug\ConsoleApplication5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\тп сдавать\Lab7_2\Debug\ConsoleApplication5.lib" /MACHINE:X86 Debug\Animation.obj
+         Debug\main.obj
+         ConsoleApplication5.vcxproj -> C:\тп сдавать\Lab7_2\Debug\ConsoleApplication5.exe
+     1>Сборка проекта "C:\тп сдавать\Lab7_2\ConsoleApplication5\ConsoleApplication5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.78
