@@ -1,7 +1,6 @@
 #include <SFML/Graphics.hpp>
 #include "Animation.h"
-
-
+азазазаза
 using namespace sf;
 using namespace std;
 
